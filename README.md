@@ -19,7 +19,7 @@ O projeto consiste em uma Análise Exploratória de Dados(EDA) da indústria aut
 ---
 ## 📂 Estrutura do Projeto
 
-📁 nome-do-projeto
+📁 Análise de Vendas e do Consumidor de carros
 
 ├── 📄 README.md <- Documentação do projeto
 
