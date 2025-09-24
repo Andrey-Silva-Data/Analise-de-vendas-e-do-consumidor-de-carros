@@ -35,9 +35,6 @@ O projeto consiste em uma Análise Exploratória de Dados(EDA) da indústria aut
 
 ## 📊 Resultados
 
-Inclua imagens, gráficos ou prints de dashboards aqui.  
-Exemplo:  
-![Dashboard](https://link-da-imagem-ou-gif.com)
 ---
 ## 📎 Links Importantes
 - 🔗 **Portfólio:** https://andrey-silva-data.github.io/MeuPortf-lio-AndreySilva/
