@@ -5,6 +5,7 @@ O projeto consiste em uma Análise Exploratória de Dados(EDA) da indústria aut
 # 📊 Análise de Vendas e do concumidor de carros
 
 ## 📌 Descrição
+
 O projeto consiste em uma Análise Exploratória de Dados(EDA) da indústria automotiva americana. Serão realizadas etapas essenciais para análise de dados em python usando arrays multidimensionais, manipulação de Dataframe em Pandas com a biblioteca do SciPy de rotinas matemática realizando aprendizado de máquina usando Scikit-learn. A análise desvendará quais fatores influenciaram nas vendas dos automóveis.
 ---
 ## 🚀 Tecnologias Utilizadas
