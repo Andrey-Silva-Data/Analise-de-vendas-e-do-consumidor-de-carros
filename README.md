@@ -44,4 +44,4 @@ O projeto consiste em uma Análise Exploratória de Dados(EDA) da indústria aut
 ---
 
 ## 📜 Licença
-© 2025 Andrey Silva - Todos os direitos reservados.
+© 2026 Andrey Silva - Todos os direitos reservados.
